@@ -1,5 +1,5 @@
 
-# Hi I'm Priya G
+# Hi I'm Priya
 
 I'm a customer-obsessed Product Leader with 10+ years of experience building AI-powered analytics, reporting, and data platform products across enterprise SaaS ecosystems.
 
